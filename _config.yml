@@ -1,0 +1,6 @@
+title: Tiny Shapes Arcade
+description: A small studio making small games. Currently shipping More Like Uhh…
+theme: jekyll-theme-cayman
+
+exclude:
+  - README.md
