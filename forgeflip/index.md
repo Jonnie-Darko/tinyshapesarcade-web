@@ -11,7 +11,7 @@ permalink: /forgeflip/
 - Smash anvils with last-second **strikes**
 - Chain close calls into a **×10 combo** and set off white-hot **Fever**
 - Catch floating **embers** to unlock new spark colors and bar metals
-- Take on the **Daily Forge**: the same hard-mode forge for everyone, every day
+- Survive **Trial by Fire**: the hard mode, where the fire burns hotter every lap
 - Climb the global **leaderboard**
 
 ## Play it

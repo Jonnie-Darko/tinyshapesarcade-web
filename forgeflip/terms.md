@@ -46,7 +46,7 @@ Embers, unlockable looks and achievements are part of the game. They have no mon
 
 ## 5. The service
 
-ForgeFlip is free and provided as is, by one person, without warranties of any kind, to the extent the law allows. The game may change over time. Leaderboards, the Daily Forge and scores may be reset, for example after the game is rebalanced, and the online features may sometimes be unavailable. To the extent the law allows, Tiny Shapes Arcade isn't liable for any loss that comes from playing, or being unable to play, ForgeFlip.
+ForgeFlip is free and provided as is, by one person, without warranties of any kind, to the extent the law allows. The game may change over time. Leaderboards (including Trial by Fire) and scores may be reset, for example after the game is rebalanced, and the online features may sometimes be unavailable. To the extent the law allows, Tiny Shapes Arcade isn't liable for any loss that comes from playing, or being unable to play, ForgeFlip.
 
 We can update these rules. Changes are posted on this page with a new date, and if they change in a way that matters, the game asks you to agree again.
 

@@ -41,7 +41,7 @@ The first time you post a score, the game asks you to pick a leaderboard name. F
 |---|---|
 | **Your leaderboard name** (3–12 characters, chosen by you) | Shown to other players next to your scores |
 | **A random sign-in token** made by your device | Proves score posts come from you. The server stores only a one-way hash of it, never the token itself |
-| **Your scores**: score, lap reached, play time, close calls, and similar run stats | Ranking you on the all-time and Daily Forge leaderboards, and checking that scores are possible (anti-cheat) |
+| **Your scores**: score, lap reached, play time, close calls, and similar run stats | Ranking you on the all-time and Trial by Fire leaderboards, and checking that scores are possible (anti-cheat) |
 | **Names you report** as inappropriate | So we can review them |
 
 ## Reports you send us
@@ -74,8 +74,7 @@ We don't sell your information or share it with anyone else. Fly.io's privacy po
 
 ## How long we keep it
 
-- **Leaderboard name and all-time scores:** until you delete them (see below), or until we remove a name that breaks our rules.
-- **Daily Forge scores:** removed automatically after 35 days.
+- **Leaderboard name and scores** (all-time and Trial by Fire): until you delete them (see below), or until we remove a name that breaks our rules.
 - **Name reports:** until reviewed; removed when the reported name is deleted.
 - **Problem reports** (and any email given with one): until the problem is dealt with, and no longer than 12 months.
 - **Security logs:** kept by our hosting provider for a limited time, then deleted.
