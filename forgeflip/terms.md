@@ -42,7 +42,7 @@ Use the flag on the leaderboard to report a name, or Report a problem for cheati
 
 ## 4. Embers, looks and achievements
 
-Embers, unlockable looks, achievements and missions are part of the game. They have no money value, can't be bought, sold or exchanged for money, and may be rebalanced as the game changes. They're saved on your device, so uninstalling the game or clearing its data removes them, and we can't restore them.
+Embers, unlockable looks and achievements are part of the game. They have no money value, can't be bought, sold or exchanged for money, and may be rebalanced as the game changes. They're saved on your device, so uninstalling the game or clearing its data removes them, and we can't restore them.
 
 ## 5. The service
 
