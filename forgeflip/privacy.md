@@ -44,6 +44,10 @@ The first time you post a score, the game asks you to pick a leaderboard name. F
 | **Your scores**: score, lap reached, play time, close calls, and similar run stats | Ranking you on the all-time and Trial by Fire leaderboards, and checking that scores are possible (anti-cheat) |
 | **Names you report** as inappropriate | So we can review them |
 
+## Anonymous play stats
+
+To make the game better, each finished run (all-time or Trial by Fire) sends **the lap it reached, what ended it, how long it lasted, and the game's version**. Nothing that identifies you is sent with it: no name, no sign-in token, no device ID. Our server immediately adds it to **daily totals** (for example "lap 3: 14 runs, ended by bars: 9") and keeps only those totals, for about a year. You can turn this off at any time in **Settings → Share anonymous play stats**.
+
 ## Reports you send us
 
 If you use **Report a problem**, we keep what you wrote (the kind of report, a short summary and the details), which screen of the game you were on, whether you used the app or a browser, and the game's version. If you choose to give an email address for a reply, it's kept with that report only and used only to answer it. You don't need a leaderboard name to send a report.
@@ -77,6 +81,7 @@ We don't sell your information or share it with anyone else. Fly.io's privacy po
 - **Leaderboard name and scores** (all-time and Trial by Fire): until you delete them (see below), or until we remove a name that breaks our rules.
 - **Name reports:** until reviewed; removed when the reported name is deleted.
 - **Problem reports** (and any email given with one): until the problem is dealt with, and no longer than 12 months (older ones are deleted automatically).
+- **Anonymous play stats:** only as daily totals, for about a year (400 days), then deleted automatically.
 - **Security logs:** kept by our hosting provider for a limited time, then deleted.
 
 ## Deleting your data
