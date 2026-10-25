@@ -7,7 +7,7 @@ permalink: /forgeflip/privacy/
 # Privacy Policy: ForgeFlip
 
 **Effective date:** October 18, 2026
-**Last updated:** October 18, 2026
+**Last updated:** October 24, 2026
 
 This policy explains what information ForgeFlip ("the game", "we") collects, how it's used, and how to delete it. ForgeFlip is published by Tiny Shapes Arcade, a one-person studio operated by Jonathon Pifher. It applies to the Android app and the browser version at forgeflip.fly.dev.
 
@@ -76,12 +76,12 @@ We don't sell your information or share it with anyone else. Fly.io's privacy po
 
 - **Leaderboard name and scores** (all-time and Trial by Fire): until you delete them (see below), or until we remove a name that breaks our rules.
 - **Name reports:** until reviewed; removed when the reported name is deleted.
-- **Problem reports** (and any email given with one): until the problem is dealt with, and no longer than 12 months.
+- **Problem reports** (and any email given with one): until the problem is dealt with, and no longer than 12 months (older ones are deleted automatically).
 - **Security logs:** kept by our hosting provider for a limited time, then deleted.
 
 ## Deleting your data
 
-- **In the game:** Settings → **Delete my leaderboard name**. This deletes your name and every score posted with it from our server right away, and the name becomes free for others.
+- **In the game:** Settings → **Delete my leaderboard name**. This deletes your name, every score posted with it, and any problem reports you sent while using it from our server right away, and the name becomes free for others.
 - **By Report a problem or email:** if you can't delete it in the game, choose "About my data" in Report a problem, or email **jonathon@tinyshapesarcade.com**, with your leaderboard name, and we'll delete it within 30 days. You can also ask us what we hold about your name the same way.
 - **On your device:** uninstall the app, or clear the site data in your browser.
 
